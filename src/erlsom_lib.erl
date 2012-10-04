@@ -192,6 +192,8 @@ translateType(String) ->
        'integer';
     "int" ->
        'integer';
+    "positiveInteger" ->
+       'integer';
     "QName" ->
        'qname';
     "boolean" ->
